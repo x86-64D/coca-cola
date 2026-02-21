@@ -1,5 +1,5 @@
 # coca-cola
-CURRENT RECIPE: same as video, but use 10 grams of tannin, 150 grams of glycerin, and 43mL of 85% phosphoric acid. And if you use Durkee caramel color (since Shanks no longer seems to be available), use 185mL instead of 320mL, since it's much stronger.
+CURRENT RECIPE: use 10 grams of tannin, 150 grams of glycerin, and 43mL of 85% phosphoric acid. And if you use Durkee caramel color (since Shanks no longer seems to be available), use 185mL instead of 320mL, since it's much stronger.
 
 PER LITER OF SODA (VERSION 111C):
 104 grams sugar (dissolved in a minimum volume of water)
