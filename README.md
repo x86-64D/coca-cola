@@ -25,3 +25,5 @@ FLAVOR SOLUTION B: dilute the following mixture to a volume of 1 liter using wat
 9.65 grams caffeine
 10mL 5% vinegar
 10mL vanilla extract (or a solution containing 0.95 grams per liter of vanillin)
+
+https://www.youtube.com/@LabCoatz_Science
